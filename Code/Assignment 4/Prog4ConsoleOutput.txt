@@ -1,0 +1,195 @@
+Enter scores in this order, math, emglish, writing
+to end type -1 for math
+900
+700
+800
+900 is not a valid score. Try again
+735
+750
+690
+735 is not a valid score. Try again
+190
+600
+545
+190 is not a valid score. Try again
+545 is not a valid score. Try again
+300
+205
+100
+205 is not a valid score. Try again
+100 is not a valid score. Try again
+900
+100
+505
+900 is not a valid score. Try again
+100 is not a valid score. Try again
+505 is not a valid score. Try again
+810
+495
+215
+810 is not a valid score. Try again
+495 is not a valid score. Try again
+215 is not a valid score. Try again
+200
+670
+800
+Score is less than 500
+Score is 500 or above
+Perfect Score!
+The total score is 1670
+this group is erratic
+800
+500
+790
+Perfect Score!
+Score is 500 or above
+Score is 500 or above
+The total score is 2090
+this group is erratic
+199
+200
+201
+199 is not a valid score. Try again
+201 is not a valid score. Try again
+799
+800
+801
+799 is not a valid score. Try again
+801 is not a valid score. Try again
+200
+400
+600
+Score is less than 500
+Score is less than 500
+Score is 500 or above
+The total score is 1200
+this group is erratic
+550
+800
+650
+Score is 500 or above
+Perfect Score!
+Score is 500 or above
+The total score is 2000
+this group is erratic
+150
+660
+450
+150 is not a valid score. Try again
+400
+490
+480
+Score is less than 500
+Score is less than 500
+Score is less than 500
+The total score is 1370
+this group is week
+800
+790
+780
+Perfect Score!
+Score is 500 or above
+Score is 500 or above
+The total score is 2370
+this group is outstanding
+700
+700
+690
+Score is 500 or above
+Score is 500 or above
+Score is 500 or above
+The total score is 2090
+this group is erratic
+780
+720
+690
+Score is 500 or above
+Score is 500 or above
+Score is 500 or above
+The total score is 2190
+this group is very good
+750
+490
+690
+Score is 500 or above
+Score is less than 500
+Score is 500 or above
+The total score is 1930
+this group is erratic
+650
+500
+550
+Score is 500 or above
+Score is 500 or above
+Score is 500 or above
+The total score is 1700
+this group is erratic
+420
+470
+450
+Score is less than 500
+Score is less than 500
+Score is less than 500
+The total score is 1340
+this group is week
+610
+660
+690
+Score is 500 or above
+Score is 500 or above
+Score is 500 or above
+The total score is 1960
+this group is erratic
+800
+800
+800
+Perfect Score!
+Perfect Score!
+Perfect Score!
+The total score is 2400
+this group is outstanding
+740
+790
+680
+Score is 500 or above
+Score is 500 or above
+Score is 500 or above
+The total score is 2210
+this group is very good
+540
+350
+320
+Score is 500 or above
+Score is less than 500
+Score is less than 500
+The total score is 1210
+this group is erratic
+290
+240
+790
+Score is less than 500
+Score is less than 500
+Score is 500 or above
+The total score is 1320
+this group is erratic
+801
+760
+790
+801 is not a valid score. Try again
+710
+640
+730
+Score is 500 or above
+Score is 500 or above
+Score is 500 or above
+The total score is 2080
+this group is erratic
+480
+680
+580
+Score is less than 500
+Score is 500 or above
+Score is 500 or above
+The total score is 1740
+this group is erratic
+-1

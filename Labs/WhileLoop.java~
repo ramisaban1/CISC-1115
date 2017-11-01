@@ -1,0 +1,14 @@
+//dfffffffffffffffffffffffffffffffff
+//dfffffffffffffffffffffffffffffffffffffffff
+//dfddfdfddddddddddddddddddddddddddddddddddd
+public class WhileLoop {
+  public static void main (String[] args) {
+    int n;
+    double c,d;
+    d=4.6;
+    n=10;
+   System.out.println(n+" "+d);
+   n=10/6;
+   d=10/6;
+   c=10.0/6;
+   System.out.println(n+" "+d+" "+c);}}

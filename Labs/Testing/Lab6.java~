@@ -1,0 +1,9 @@
+import java.util.Scanner;
+public class Lab6 {
+  public static void main(String [] args) {
+    Scanner number=new Scanner(System.in);
+    System.out.println("please type in a value ");
+    number=input.nextInt();
+    System.out.println("you typed in "+number)
+  }
+}

@@ -1,0 +1,141 @@
+900 on math, 700 on english, and 800 on writing
+This is not a vaild group.
+
+
+
+735 on math, 750 on english, and 690 on writing
+This is not a vaild group.
+
+
+
+190 on math, 600 on english, and 545 on writing
+This is not a vaild group.
+
+
+
+300 on math, 205 on english, and 100 on writing
+This is not a vaild group.
+
+
+
+900 on math, 100 on english, and 505 on writing
+This is not a vaild group.
+
+
+
+810 on math, 495 on english, and 215 on writing
+This is not a vaild group.
+
+
+
+200 on math, 670 on english, and 800 on writing
+This is a vaild group.
+
+
+
+800 on math, 500 on english, and 790 on writing
+This is a vaild group.
+
+
+
+199 on math, 200 on english, and 201 on writing
+This is not a vaild group.
+
+
+
+799 on math, 800 on english, and 801 on writing
+This is not a vaild group.
+
+
+
+200 on math, 400 on english, and 600 on writing
+This is a vaild group.
+
+
+
+550 on math, 800 on english, and 650 on writing
+This is a vaild group.
+
+
+
+150 on math, 660 on english, and 450 on writing
+This is not a vaild group.
+
+
+
+400 on math, 490 on english, and 480 on writing
+This is a vaild group.
+
+
+
+800 on math, 790 on english, and 780 on writing
+This is a vaild group.
+
+
+
+700 on math, 700 on english, and 690 on writing
+This is a vaild group.
+
+
+
+780 on math, 720 on english, and 690 on writing
+This is a vaild group.
+
+
+
+750 on math, 490 on english, and 690 on writing
+This is a vaild group.
+
+
+
+650 on math, 500 on english, and 550 on writing
+This is a vaild group.
+
+
+
+420 on math, 470 on english, and 450 on writing
+This is a vaild group.
+
+
+
+610 on math, 660 on english, and 690 on writing
+This is a vaild group.
+
+
+
+800 on math, 800 on english, and 800 on writing
+This is a vaild group.
+
+
+
+740 on math, 790 on english, and 680 on writing
+This is a vaild group.
+
+
+
+540 on math, 350 on english, and 320 on writing
+This is a vaild group.
+
+
+
+290 on math, 240 on english, and 790 on writing
+This is a vaild group.
+
+
+
+801 on math, 760 on english, and 790 on writing
+This is not a vaild group.
+
+
+
+710 on math, 640 on english, and 730 on writing
+This is a vaild group.
+
+
+
+480 on math, 680 on english, and 580 on writing
+This is a vaild group.
+
+
+
+28 groups calculated, 18 vaild groups, and 10 invalid groups

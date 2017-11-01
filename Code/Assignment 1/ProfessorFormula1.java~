@@ -1,0 +1,23 @@
+/*
+ * Rahamim Rami Saban
+ * This is Program 1
+ * This program will output my name, as well as
+ * compute a formula with given x's going up in
+ * value from -3.0 to +3.0 by increments of 0.5
+ */
+public class ProfessorFormula {
+  public static void main (String[] args) {
+    System.out.println("My name is Rami Saban, and this is my first output.");
+    double x,y;
+    for(x=-3.0;x<=3.0;x=x+0.5){
+      y=((4*x*x*x)+(8*x*x)-(31*x)-35)/(Math.sqrt((3*x*x)+1)+(2*Math.abs(x-1.5)));
+      System.out.print("X = "+x+"   Y = "+y);
+      if(y==0)
+       System.out.print("     Y IS ZERO ");
+      if(y>0)
+       System.out.print("    Y IS POSITIVE ");
+      if(y<0)
+        System.out.print("    Y IS NEGATIVE ");
+    System.out.println();}
+  System.out.print("This program is now complete");}}
+      

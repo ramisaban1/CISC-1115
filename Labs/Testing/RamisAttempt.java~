@@ -1,0 +1,15 @@
+
+
+
+
+public class RamisAttempt{
+  public static void main (String [] args) {
+    int x,y,z,loop;
+    x=9;
+    for(loop=0;loop<=20;loop+=1){
+      y=z=loop;
+    if(x==y*z)
+      System.out.println("the square root of 9 is "+y+" or "+z);
+    }}}
+    
+    

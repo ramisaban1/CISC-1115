@@ -1,0 +1,10 @@
+Welcome to DrJava.  Working directory is C:\Users\Rami Saban\Documents\Programming\CISC 1115\Assignment 3
+> run AthletePerformance
+Athlete id # 2365 had an average of 6.900 
+Athlete id # 2345 had an average of 7.250 
+Athlete id # 4356 had an average of 7.467 
+Athlete id # 7865 had an average of 6.667 
+Athlete id # 2319 had an average of 8.800 
+Athlete id # 4508 had an average of 7.420 
+The athlete id # with the best average is: 2319 with an average of 8.800 
+The best score was 9.90 from athlete id # 4508> 

@@ -1,0 +1,12 @@
+public class Test495 {
+  public static void main (String[] args) {
+    int a = 3, b = 4, c;
+    c = dividethetwo(a,b);
+    System.out.println(c);
+  }
+  public static double dividethetwo (int x, int y){
+    double divide;
+    if(x < y)
+      divide = (x/y(double));
+    return divide;
+  }}
